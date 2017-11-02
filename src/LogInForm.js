@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 
-class FavoritesList extends Component {
+class LogInForm extends Component {
   constructor(props) {
     super(props);
   }
 }
 
-export default FavoritesList;
+export default LogInForm;
